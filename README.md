@@ -16,4 +16,20 @@ LegendScreen must deliver compelling Adventure films that resonate with audience
 
 ## Relational Model
 
+![Relational Model](./assets/relational_model.png)
+
 ## Insights
+
+Based on our data, here are 3 unique insights:
+
+**1. Critical Reception of Adventure Movies:**
+
+   Adventure films have consistently maintained high critical acclaim over the past 50 years, with average Rotten Tomatoes scores generally staying above 80. This suggests a strong and enduring appreciation for the genre among critics, which could potentially correlate with good box office performance.
+
+**2. Director Performance Evaluation:**
+
+   The database analysis revealed a small group of directors with notably lower average Rotten Tomatoes scores. With the fifth-lowest score being around 70, this indicates that the majority of directors in the database are capable of delivering well-received adventure movies. This information can be crucial for avoiding potentially risky collaborations and selecting promising directors.
+
+**3. Actor Selection for Lead Roles:**
+
+  Among the actors who have won Academy Awards for adventure movies, Timothée Chalamet stands out with two awards. The data also revealed a diverse age range among award-winning actors but a significant gender imbalance, with only one female represented. This highlights a potential challenge in casting female leads for adventure films, as the options appear limited based on the available data.
